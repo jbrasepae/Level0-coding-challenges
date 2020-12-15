@@ -11,4 +11,4 @@ function timeConversion(num){
     }
     return(`${newHour} ${hoursStr} and ${minutes} minutes`);
 }
-console.log(timeConversion(55));
+console.log(timeConversion(77));
